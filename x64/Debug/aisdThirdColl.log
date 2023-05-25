@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\aisdThirdColl\main.cpp(31,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\aisdThirdColl\main.cpp(190,44): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\aisdThirdColl\main.cpp(193,68): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  aisdThirdColl.vcxproj -> C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\aisdThirdColl\x64\Debug\aisdThirdColl.exe
